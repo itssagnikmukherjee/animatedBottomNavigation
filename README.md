@@ -1,4 +1,4 @@
-
+<img src="https://github.com/itssagnikmukherjee/animatedBottomNavigation/blob/master/Android.gif" height="1000" width="500">
 
 # Animated Bottom Navigation Bar v2
 This repository contains the enhanced version of the original navbar UI, now featuring integrated navigation functionality for improved user experience.

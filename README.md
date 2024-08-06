@@ -1,3 +1,5 @@
+
+
 # Animated Bottom Navigation Bar v2
 This repository contains the enhanced version of the original navbar UI, now featuring integrated navigation functionality for improved user experience.
 
@@ -15,11 +17,18 @@ This repository contains the enhanced version of the original navbar UI, now fea
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/enhanced-navbar-with-navigation.git
+git clone https://github.com/itssagnikmukherjee/animatedBottomNavigation.git
 ```
 2. Navigate to the project directory:
 ```sh
-cd enhanced-navbar-with-navigation
+cd animatedBottomNavigation
 ```
-
 3. Open the project in your preferred code editor and run the application.
+
+# Acknowledgement
+
+This project is based on the original AndroidAnimatedNavigationBar. I would like to extend my gratitude to the original author for providing the base code and inspiration for this enhancement.
+You can find the base repo here : <a href="https://github.com/exyte/AndroidAnimatedNavigationBar
+">AndroidAnimatedNavigationBar</a>
+
+Your work laid the foundation for this project, and your contributions are greatly appreciated.

@@ -1,9 +1,5 @@
-<div style="display:flex">
+<div style="display:flex;width:100%;align-items:center;">
   <img src="https://github.com/itssagnikmukherjee/animatedBottomNavigation/blob/master/Android.gif" height="900" width="420">
-  
-<img src="https://private-user-images.githubusercontent.com/83669035/355384418-8a1da6a7-d023-4715-ba14-2637863614ad.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMTI3NDAsIm5iZiI6MTcyMzAxMjQ0MCwicGF0aCI6Ii84MzY2OTAzNS8zNTUzODQ0MTgtOGExZGE2YTctZDAyMy00NzE1LWJhMTQtMjYzNzg2MzYxNGFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDA2MzQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3MjUwMDVmZDNkMTc5NmM4NWZkNDM5Yjk1ZDZmMDgwYjQ1ZTY4OTM3YjQ4N2RiZThlNTZlMzhkMDcyMTY5Y2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AxwZiUzDOA7EhS1Za5CA3ssaVoWXrcbVvG69Uyo5RX8" height="900" width="420">
-
-
 </div>
 
 
